@@ -21,6 +21,5 @@ public class URI1047 {
             durationForHour %= 24;
         }
         System.out.printf("O JOGO DUROU %d HORA(S) E %d MINUTO(S)%n", durationForHour, durationForMinute);
-
     }
 }
