@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/emptyOne/emptyOne.iml" filepath="$PROJECT_DIR$/emptyOne/emptyOne.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/neobis-22.iml" filepath="$PROJECT_DIR$/.idea/neobis-22.iml" />
       <module fileurl="file://$PROJECT_DIR$/week1/week1.iml" filepath="$PROJECT_DIR$/week1/week1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/week2/week2.iml" filepath="$PROJECT_DIR$/week2/week2.iml" />
     </modules>
   </component>
 </project>
