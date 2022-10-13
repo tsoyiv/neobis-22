@@ -1,0 +1,3 @@
+My methods of testing were based on learning tutorials and carefully repeat their Steps.
+My main.java file consist of the checking code which consists try/catch block to analyze either I connected or not
+Throughout the process I have connected several classes such as (Connection,DriveManager)
