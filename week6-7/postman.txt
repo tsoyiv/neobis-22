@@ -1,0 +1,7 @@
+{
+    "id": "1",
+    "title": "BMW",
+    "description" : "SMALL DESCRIPTION",
+    "price" : "5400",
+    "office" : "central office"
+}
