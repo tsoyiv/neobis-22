@@ -1,0 +1,6 @@
+I learnt such dangerous mistake in SQL system, and it can be also in my system applications.
+The mistake is to put incorrect data type in tables. F.x If we put something to get inout using "Varchar"
+we have to be very careful and do all checks when user will input something. Varchar can get any symbols, user can input
+remove all tables in window where f.x needed only username, his input can crash all database system.
+
+In my sql I am trying to be very careful to get user input to avoid such mistakes
