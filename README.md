@@ -11,3 +11,13 @@ class HelloWorld {
     }
 }
 ```
+Unit tests for web applications
+Unit tests, I found out that they are very powerful and useful operations for
+Checking our web code in running to find any bugs or errors which can destroy 
+the logic of our program. Unit tests a lot of testing systems which can help to 
+develop the program itself.
+
+F.X I used in my controllers JUNIT tests for checking what my controllers do.
+
+The main tasks of unit tests is to recreate object to check it on real level. It creates tests 
+cases and test it. Through it we can check our program in using 
