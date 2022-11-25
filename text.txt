@@ -1,0 +1,7 @@
+The idea is that you can remotely manage/run projects
+that you want to run on another device. In this case,
+Docker will help you. Thanks to the creation of the image,
+you can run the project through the docker itself, which will
+provide you with work with your project. At the beginning, .jar file is being created,
+then its structure is transferred to the docker itself, which, thanks to this file,
+helps to run the project on its server.
